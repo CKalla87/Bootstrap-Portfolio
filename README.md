@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
+# Responsive-Portfolio
 Bootstrap Assignment
